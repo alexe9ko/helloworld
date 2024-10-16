@@ -3,13 +3,13 @@
 public class Main {
     public static void main(String[] args) {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it.
-        System.out.println("Привет мир!");
+        // to see how IntelliJ IDEA suggests fixing it.//        System.out.println("&#x41F;&#x440;&#x438;&#x432;&#x435;&#x442;  &#x43C;&#x438;&#x440;!");
+
 
         for (int i = 1; i <= 5; i++) {
             //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-            System.out.println("i = " + i);
+            System.out.println("Hello world!! " );
         }
     }
 }
